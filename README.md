@@ -1,7 +1,7 @@
-# Starks-AI-DataSience-RoadMap
 
 
-<h1 align="center">Data Science Circle roadmap 2021</h1> 
+
+<h1 align="center">Starks-AI-DataSience-RoadMap</h1> 
 
 
 > For Datacamp courses we have access to it, if you don’t:<br>
